@@ -5,9 +5,9 @@
 
 ## Part 1 - GitHub Profile
 
-1. [your_github_username_here's GitHub Profile](https://github.com/nerdynoah/nerdynoah)
+1. [My github!](https://github.com/nerdynoah/nerdynoah)
 
-## Part 2 - Research
+## Part 2 - Research (I am reasearch, really cool I know)
 
 | Windows | Linux / Mac | Action |
 | ---     | ---         | ---    |
