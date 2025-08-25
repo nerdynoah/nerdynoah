@@ -15,7 +15,7 @@
 | Get-Location | pwd    |        |
 | Get-ChildItem | ls    |        |
 | mkdir   | mkdir       |        |
-| Set-Location | cd     |        |
+| Set-Location | cd     | Moves your current file location       |
 | New-Item | touch      |        |
 | Move-Item | mv        |        |
 | Copy-Item | cp        |        |
