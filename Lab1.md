@@ -3,9 +3,11 @@
 - Name: Noah Howlett
 - Email: howlett.4@wright.edu
 
-## Part 1 - GitHub Profile
+## Part 1 - GitHub + Other Profiles
 
 1. [My github!](https://github.com/nerdynoah/nerdynoah)
+2. [Youtube](https://www.youtube.com/@BirdyEnforcement)
+3. Discord: NerdyEnforcement
 
 ## Part 2 - Research (I am reasearch, really cool I know)
 
