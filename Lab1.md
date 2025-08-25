@@ -11,8 +11,8 @@
 
 | Windows | Linux / Mac | Action |
 | ---     | ---         | ---    |
-| help    | man         |        |
-| Get-Location | pwd    |        |
+| help    | man         | Opens a help window and/or tells you moer info about commands       |
+| Get-Location | pwd    | Gets your current location (usually displayed on your left)       |
 | Get-ChildItem | ls    |        |
 | mkdir   | mkdir       |        |
 | Set-Location | cd     | Moves your current file location       |
