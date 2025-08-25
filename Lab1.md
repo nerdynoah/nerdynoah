@@ -11,16 +11,16 @@
 
 | Windows | Linux / Mac | Action |
 | ---     | ---         | ---    |
-| help    | man         | Opens a help window and/or tells you moer info about commands       |
-| Get-Location | pwd    | Gets your current location (usually displayed on your left)       |
-| Get-ChildItem | ls    | Get the Children of the parent folder, usually protaining info on Length, Name, Access (mode), etc...       |
-| mkdir   | mkdir       | Create folder in current directory       |
-| Set-Location | cd     | Moves your current file location       |
-| New-Item | touch      | Creates a new file       |
-| Move-Item | mv        | Moves a file to a different location       |
-| Copy-Item | cp        | Copies the item       |
+| help    | man         | Opens a help window and/or tells you more info about commands 📖      |
+| Get-Location | pwd    | Gets your current location (usually displayed on your left) 🔬      |
+| Get-ChildItem | ls    | Get the Children of the parent folder, usually protaining info on Length, Name, Access (mode), Last time written.       |
+| mkdir   | mkdir       | Create folder in current directory 📁      |
+| Set-Location | cd     | Moves your current file location 📂      |
+| New-Item | touch      | Creates a new file (i.e: TheEntireBeeMovieScript.txt 📖      |
+| Move-Item | mv        | Moves a file to a different location 🚶‍♀️      |
+| Copy-Item | cp        | Copies the item 🖨️     |
 | Remove-Item | rm      | Deletes the file (does not send them to your recycle bin) 😨       |
-| notepad.exe | vim     | Opens the textpad editor.       |
+| notepad.exe | vim     | Opens the textpad editor. 🖊️       |
 
 ## Part 3 - Command Line Navigation
 
