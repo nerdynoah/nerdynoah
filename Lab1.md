@@ -19,8 +19,8 @@
 | New-Item | touch      | Creates a new file       |
 | Move-Item | mv        | Moves a file to a different location       |
 | Copy-Item | cp        | Copies the item       |
-| Remove-Item | rm      |        |
-| notepad.exe | vim     |        |
+| Remove-Item | rm      | Deletes the file (does not send them to your recycle bin) 😨       |
+| notepad.exe | vim     | Opens the textpad editor.       |
 
 ## Part 3 - Command Line Navigation
 
