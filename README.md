@@ -1,5 +1,7 @@
 # Hi there gamers 🐦
 
+I am the one and only, Nerd!
+I am currently writting many different laungauges.
 <!--
 **nerdynoah/nerdynoah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,5 +17,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Programming
-**AM I RIGHT?**
+## Usable Coding Launguages:
+C#, Java, Python, SQL, Html/css/js/php,
