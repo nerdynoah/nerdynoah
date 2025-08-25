@@ -16,9 +16,9 @@
 | Get-ChildItem | ls    |        |
 | mkdir   | mkdir       |        |
 | Set-Location | cd     | Moves your current file location       |
-| New-Item | touch      |        |
-| Move-Item | mv        |        |
-| Copy-Item | cp        |        |
+| New-Item | touch      | Creates a new file       |
+| Move-Item | mv        | Moves a file to a different location       |
+| Copy-Item | cp        | Copies the item       |
 | Remove-Item | rm      |        |
 | notepad.exe | vim     |        |
 
