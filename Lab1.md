@@ -18,7 +18,7 @@
 | Get-ChildItem | ls    | Get the Children of the parent folder, usually protaining info on Length, Name, Access (mode), Last time written.       |
 | mkdir   | mkdir       | Create folder in current directory 📁      |
 | Set-Location | cd     | Moves your current file location 📂      |
-| New-Item | touch      | Creates a new file (i.e: TheEntireBeeMovieScript.txt 📖      |
+| New-Item | touch      | Creates a new file (i.e: TheEntireBeeMovieScript.txt) 📖      |
 | Move-Item | mv        | Moves a file to a different location 🚶‍♀️      |
 | Copy-Item | cp        | Copies the item 🖨️     |
 | Remove-Item | rm      | Deletes the file (does not send them to your recycle bin) 😨       |
