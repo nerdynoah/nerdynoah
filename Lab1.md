@@ -45,7 +45,7 @@ My Command Line Shell is: Powershell
 8. Move the file named `test.txt` into `DirA`:
 9. Contents of `test.txt`:
 ```
-Put your words here
+What if the video's were the games we played along the way? What are you? Some sort of... Text reader??? WOW!!! YOU READ!!! Thats so awsome. I hope you like fish, cause ur being kinda fishy in among us rn. Kinda... SUSSY!!! OMG!!! SUSSY BAKA???? Alright chat we're voting you out.
 ```
 10. Make a copy of `test.txt` named `copy.txt` in `DirA`:
 11. View the contents of `DirA`: 
