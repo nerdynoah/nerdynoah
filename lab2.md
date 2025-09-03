@@ -1,7 +1,7 @@
 ## Lab 02
 
-- Name:
-- Email
+- Name: Noah Howlett
+- Email: howlett.4@wright.edu
 
 ## Part 1 Answers
 
