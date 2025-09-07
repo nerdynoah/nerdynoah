@@ -15,14 +15,14 @@ Command to SSH to AWS instance:
 ## Part 2 Answers
 
 1. `chmod u+r bubbles.txt`
-    - Means: Add read permissions to bubbles.text
-    - Assessment: Makes it so users can read the file
+    - Means: Add read permissions to bubbles.text to user (creator)
+    - Assessment: Makes it so user can read the file
 2. `chmod u=rw,g-w,o-x banana.cabana`
-    - Means: Override all permissions and only add read and wright persmissions
-    - Assessment:
+    - Means: Give user read and wright permissions, give groups of users wright permsissions, give other invidudual executable permssions on file banana.cabana
+    - Assessment: Makes it so the user can read/wright to the file, the group of users cannot read the file but they can wright to it, and 
 3. `chmod a=w snow.md`
-    - Means: 
-    - Assessment:
+    - Means: Overwright all permissions and give everyone ONLY the abiltity to wright to snow.md
+    - Assessment: Makes it so everyone can wright to said file and nothing else.
 4. `chmod 751 program`
     - Means: 
     - Assessment:
