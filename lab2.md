@@ -27,7 +27,7 @@ Command to SSH to AWS instance:
     - Means: Give the user (creator) all permissions, give the group of users wright and executable permissions, and give other uses read only permissions to program.
     - Assessment:
 5. `chmod -R ug+w share`
-    - Means: 
+    - Means: Change the directory share to give aditional permisions to user (creator of directory) and group which allow them to wright to the file.
     - Assessment:
 
 ## Part 3 Answers
