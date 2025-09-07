@@ -24,7 +24,7 @@ Command to SSH to AWS instance:
     - Means: Overwright all permissions and give everyone ONLY the abiltity to wright to snow.md
     - Assessment: Makes it so everyone can wright to said file and nothing else.
 4. `chmod 751 program`
-    - Means: 
+    - Means: Give the user (creator) all permissions, give the group of users wright and executable permissions, and give other uses read only permissions to program.
     - Assessment:
 5. `chmod -R ug+w share`
     - Means: 
