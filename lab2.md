@@ -16,9 +16,9 @@ Command to SSH to AWS instance:
 
 1. `chmod u+r bubbles.txt`
     - Means: Add read permissions to bubbles.text
-    - Assessment:
+    - Assessment: Makes it so users can read the file
 2. `chmod u=rw,g-w,o-x banana.cabana`
-    - Means: 
+    - Means: Override all permissions and only add read and wright persmissions
     - Assessment:
 3. `chmod a=w snow.md`
     - Means: 
