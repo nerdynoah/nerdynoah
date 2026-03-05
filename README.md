@@ -18,8 +18,7 @@
 ## Projects
 
 ### Unity Game
-FPS/TPS game which shows off my skills not only as a game designer, but as a computer programmer as well.
-[The Adventure's of Sabrina and Shell](https://github.com/nerdynoah/The-Adventures-of-Sabrina-and-Shell), contains all of the code for the project.
+FPS/TPS game which shows off my skills not only as a game designer, but as a computer programmer as well. [The Adventure's of Sabrina and Shell](https://github.com/nerdynoah/The-Adventures-of-Sabrina-and-Shell) github repo, contains all of the code for the project.
 
 - [Latest Devolpment Log](https://youtu.be/6WFoNEgQA4w)
 - [Full Playlist](https://www.youtube.com/playlist?list=PLBWCE0NqaWBoCZYMasoYlsk7qtcclQ4oz)
