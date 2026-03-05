@@ -17,7 +17,7 @@
 ## Projects
 
 ### Unity Game
-FPS/TPS game with tooling, weapons, items, inventory, enemies, etc...
+FPS/TPS game which shows off my skills not only as a game designer, but as a computer programmer as well.
 This github repo, [The Adventure's of Sabrina and Shell](https://github.com/nerdynoah/The-Adventures-of-Sabrina-and-Shell), contains all of the code for the project.
 
 
