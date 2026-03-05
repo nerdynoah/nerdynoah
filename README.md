@@ -4,6 +4,16 @@
 - [Youtube](https://www.youtube.com/@BirdyEnforcement)
 - Discord: NerdyEnforcement
 
+## Skills
+- Proficient usage of Microsoft Office 365 products,
+- Exceptional usage of Linux, Windows, and UNIX.
+- Database and Website design using MySQL, Bootstrap, HTML/CSS/JS/PHP, Docker.
+- Programing with: Git, Bash, Java, C#, C/C++, Python.
+- Game design utilizing Unity.
+- Arduino and a proficient understand of circuitry. (Soldiering, wiring diagrams, hands on experience)
+- 2+ Years of experience using SolidWorks.
+- Phenomenal public speaking and presentation skills. ([presentation example](https://www.youtube.com/watch?v=Lw075KR24iE&list=PLBWCE0NqaWBrNbnPSjD8sF1TPFKfpuZ1i&index=5)
+
 ## Projects
 
 ### Unity Game
@@ -21,12 +31,3 @@ Bird Feeder
 Science Fair Project: (A timer which is set via a IR remote, and counts down over time using the 8 LED's on the edges)
 ![](Assets/20190510_204844.jpg)
 
-## Skills
-- Proficient usage of Microsoft Office 365 products,
-- Exceptional usage of Linux, Windows, and UNIX.
-- Database and Website design using MySQL, Bootstrap, HTML/CSS/JS/PHP, Docker.
-- Programing with: Git, Bash, Java, C#, C/C++, Python.
-- Game design utilizing Unity.
-- Arduino and a proficient understand of circuitry. (Soldiering, wiring diagrams, hands on experience)
-- 2+ Years of experience using SolidWorks.
-- Phenomenal public speaking and presentation skills. ([presentation example](https://www.youtube.com/watch?v=Lw075KR24iE&list=PLBWCE0NqaWBrNbnPSjD8sF1TPFKfpuZ1i&index=5)
