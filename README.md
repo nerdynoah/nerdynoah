@@ -18,7 +18,7 @@ Bird Feeder
   Example of Bird Feeder in action:
   [Youtube Video](https://www.youtube.com/watch?v=NNDi2FEeyZc)
 
-Science Fair Project:
+Science Fair Project: (A timer which is set via a IR remote, and counts down over time using the 8 LED's on the edges)
 ![](Assets/20190510_204844.jpg)
 
 ## Skills
