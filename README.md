@@ -12,7 +12,7 @@
 - Game design utilizing Unity.
 - Arduino and a proficient understand of circuitry. (Soldiering, wiring diagrams, hands on experience)
 - 2+ Years of experience using SolidWorks.
-- Phenomenal public speaking and presentation skills. ([presentation example](https://www.youtube.com/watch?v=Lw075KR24iE&list=PLBWCE0NqaWBrNbnPSjD8sF1TPFKfpuZ1i&index=5))
+- Phenomenal public speaking and presentation skills.
 
 ## Projects
 
