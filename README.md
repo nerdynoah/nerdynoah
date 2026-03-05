@@ -13,13 +13,13 @@ FPS/TPS game with tooling, weapons, items, inventory, enemies, etc...
 ### Arduino Projects
 
 Bird Feeder
-![](products-01.jpg)
+![](Assets/products-01.jpg)
 
   Example of Bird Feeder in action:
   [Youtube Video](https://www.youtube.com/watch?v=NNDi2FEeyZc)
 
 Science Fair Project:
-
+![](Assets/20190510_204844.jpg)
 
 ## Skills
 - Proficient usage of Microsoft Office 365 products,
