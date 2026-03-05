@@ -1,9 +1,8 @@
 # Noah Howlett
 
 - Email: howlett.4@wright.edu
-1. [My github!](https://github.com/nerdynoah/nerdynoah)
-2. [Youtube](https://www.youtube.com/@BirdyEnforcement)
-3. Discord: NerdyEnforcement
+- [Youtube](https://www.youtube.com/@BirdyEnforcement)
+- Discord: NerdyEnforcement
 
 ## Projects
 
